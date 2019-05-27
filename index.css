@@ -52,7 +52,7 @@ body{
     flex-direction:column;
     justify-content:center;
     text-align:left;
-   background:url('./bg.jpg') center center;
+   background:url('bg.jpg') center center;
     background-size: cover !important;
     background-repeat:no-repeat;
     position:fixed;
